@@ -47,7 +47,7 @@ body {
     }
 }
 .seccion {
-    background: #aebccd;
+    background: #c7d2e1;
     padding: 20px;
     margin: 30px auto;
     width: 90%;
@@ -58,7 +58,7 @@ body {
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);  /* sombra suave */
 }
 .menu {
-    background: #aebccd;
+    background: #c7d2e1;
     padding: 20px;
     margin: 30px auto;
     width: 90%;
@@ -69,4 +69,5 @@ body {
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);  /* sombra suave */
 
 }
+
 
